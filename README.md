@@ -1,3 +1,2 @@
-USAGE
-
-npm init
+# USAGE
+### npm install
